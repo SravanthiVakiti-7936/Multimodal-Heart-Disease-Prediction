@@ -24,5 +24,5 @@ This project develops an AI-based system for predicting heart disease by combini
 - Interactive web interface using Streamlit
 
 ## How to Run
-# Multimodal AI Analysis for Heart Disease Prediction
+python -m streamlit run app.py
 
